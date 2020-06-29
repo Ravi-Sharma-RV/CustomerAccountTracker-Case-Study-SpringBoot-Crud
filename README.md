@@ -1,4 +1,4 @@
-# CustomerAccountTracker-Wipro-Case-Study-SpringBoot-Crud
+# CustomerAccountTracker-Case-Study-SpringBoot-Crud
 
 Project: Customer Account Tracker
 
